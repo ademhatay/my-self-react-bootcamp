@@ -1,0 +1,12 @@
+.Menu {
+  display: flex;
+  list-style-type: none;
+  border-bottom: 1px solid #ddd;
+  column-gap: 10px;
+}
+
+button[disabled] {
+  background: #ccc;
+  border-color: #ccc;
+  text-shadow: none;
+}
