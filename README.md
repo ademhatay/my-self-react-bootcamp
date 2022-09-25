@@ -93,8 +93,19 @@
 </pre>
 </details>
 
+<br />
+
+<details>
+<summary>React Native</summary>
+<pre>
+<i>patika.dev React Native Dersleri</i>
+</pre>
+</details>
+
+
 ### Bootcamp Kaynakları
 - [Turkcell Geleceği Yazanlar React Eğitimi](https://gelecegiyazanlar.turkcell.com.tr/konu/react)
+- [React Native Eğitimi](https://app.patika.dev/courses/react-native)
 
 
 ### Bootcamp Eğitmeni

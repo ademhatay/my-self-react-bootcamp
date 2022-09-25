@@ -1,12 +1,30 @@
+a {
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+}
+
 .Menu {
-  display: flex;
-  list-style-type: none;
-  border-bottom: 1px solid #ddd;
-  column-gap: 10px;
+    display: flex;
+    list-style-type: none;
+    border-bottom: 1px solid #ddd;
+    column-gap: 10px;
 }
 
 button[disabled] {
-  background: #ccc;
-  border-color: #ccc;
-  text-shadow: none;
+    background: #ccc;
+    border-color: #ccc;
+    text-shadow: none;
+}
+
+.form > div > label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
 }
