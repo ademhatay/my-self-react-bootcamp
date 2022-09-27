@@ -93,9 +93,9 @@
 <br />
 
 <details>
-<summary>React 401 ( Proje ) </summary>
+<summary>React 401</summary>
 <pre>
-<i>Proje Link</i>
+<i>Proje Tamamlandı</i>
 </pre>
 </details>
 
@@ -104,7 +104,7 @@
 <details>
 <summary>React Native</summary>
 <pre>
-<i>patika.dev React Native Dersleri</i>
+<i>React Native Giriş</i>
 </pre>
 </details>
 
