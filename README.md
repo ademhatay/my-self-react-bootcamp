@@ -78,8 +78,14 @@
 - Context Optimizasyonu
 <i>Todo Uygulaması</i>
 <i>NPMJS Üzerinde Component Paylaşmak</i>
+- Create React Library
 <i>Unit Testing</i>
+- Testing Library
 <i>Deployment</i>
+- Surge.sh Servisi Üzerine Deployment
+- Netlify Servisi Üzerine Deployment
+- Netlify Servisi Üzerinde Sürekli Entegrasyon İşlemleri
+- AWS EC2 Üzerine Deployment
 <i>Yerelleştirme</i>
 </pre>
 </details>
