@@ -118,4 +118,4 @@
 - [Mehmet Seven](https://mehmetseven.net)
 
 ### Bootcamp Bitirme Projem
-- <b>React My Bootcamp</b> Bitirme Projesi
+- <b>[Super Mern Blog](https://github.com/ademhatay/super-blog)</b> Bitirme Projesi
