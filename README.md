@@ -1,5 +1,8 @@
 # my-react-bootcamp
 
+## Bootcamp Bitirme Projem
+- <b>[Super Mern Blog](https://github.com/ademhatay/super-blog)</b> Bitirme Projesi
+
 ### Bootcamp Programı
 
 
@@ -117,5 +120,3 @@
 ### Bootcamp Eğitmeni
 - [Mehmet Seven](https://mehmetseven.net)
 
-### Bootcamp Bitirme Projem
-- <b>[Super Mern Blog](https://github.com/ademhatay/super-blog)</b> Bitirme Projesi
